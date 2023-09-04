@@ -1,1 +1,1 @@
-# Machine-Learning-Course
+Course project about community detection
